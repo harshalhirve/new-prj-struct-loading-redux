@@ -1,0 +1,2 @@
+1. this app is created using create-react-app & then ejected.
+2. in this app loading state is kept in redux.
